@@ -7,4 +7,5 @@
     scanf("%d%d",&x,&y);
     sum=x+y;
     printf("%d",sum);
+  printf("HI");
  }
